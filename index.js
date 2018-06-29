@@ -1,4 +1,4 @@
 function happyHolidays (string) {
-  return "HappyHolidays!" 
+  return "Happy Holidays!" 
   
 }
