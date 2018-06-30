@@ -18,3 +18,5 @@ say("holiday", "Joey")
 function holidayCountdown (days, holiday) {
 return `It's ${days} days until ${holiday}!`
 }
+
+say("5", "holiday")
