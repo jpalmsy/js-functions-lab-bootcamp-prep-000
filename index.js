@@ -8,3 +8,9 @@ function happyHolidaysTo (name) {
 }
 
 sayHelloTo("Joey")
+
+function happyHolidayTo (holiday, name) {
+return 'Happy ${holiday}, ${name}!'
+}
+
+say("holiday", "Joey")
